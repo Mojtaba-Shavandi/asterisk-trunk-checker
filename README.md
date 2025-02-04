@@ -12,7 +12,7 @@ A simple script for monitoring active trunks in an Asterisk-based system (Isabel
 
 1. Clone this repository to your server:
    ```bash
-   git clone https://github.com/yourusername/izabel-trunk-monitor.git
+   git clone https://github.com/Mojtaba-Shavandi/asterisk-trunk-checker.git
 Navigate to the script directory:
 
 bash
